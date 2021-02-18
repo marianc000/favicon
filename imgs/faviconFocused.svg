@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="87" height="41"  >
+    <style>
+        text { 
+        font-weight: 800;
+        font-size: 59px;
+        font-family: monospace;
+        fill: OrangeRed; 
+        } 
+    </style>
+    <text class="small" x="" y="39" textLength="87">ABC</text>    
+</svg>
