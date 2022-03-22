@@ -1,5 +1,6 @@
 * {
   font-family: consolas;
+  /* font-size: 18px; */
 }
 
 .container {
@@ -109,6 +110,7 @@ iframe {
 
 body {
   margin: 0;
+  font-size: 1.2em;
 }
 
 caption {
@@ -133,4 +135,5 @@ h1 {
 }
 .links>a {
   display: block;
+  margin: 0.5em;
 }
